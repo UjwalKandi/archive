@@ -1,2 +1,2 @@
-# archive
-Welcome to Archive – a curated collection of moments captured through my lens. Each photograph is a perspective carefully selected to reflect my creative vision.
+# ujwalkandi / archive
+Welcome to **Archive** – a curated collection of moments captured through my lens. Dive into a world of vibrant landscapes and sleek rides, each shot infused with the energy and chaos of my imagination.
